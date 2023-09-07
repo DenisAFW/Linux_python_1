@@ -22,3 +22,7 @@ if __name__ == '__main__':
     # command = subprocess.call('/home/user/text1.sh')
     text = "SUCCESS"
     print(call_command('/home/user/text1.sh', text))
+"""
+Передается файл, который был сделан на семинаре №1.
+Задача файла проверить содержимое файла os-release.
+"""
